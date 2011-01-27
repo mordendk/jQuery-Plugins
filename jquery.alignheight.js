@@ -1,25 +1,4 @@
 
-// Ensure AMPLEX namespace
-var AMPLEX = AMPLEX || {};
-
-
-// Remap jQuery to $
-(function( $ ){
-
-	AMPLEX.Events = {
-		
-		init: function() {
-			$( '#page > div[class^="col"]' ).alignHeight();
-		}
-
-	}
-	
-	$( AMPLEX.Events.init );
-
-
-})( this.jQuery );
-
-
 /*
  *  jQuery pluggy for aligning portlet heights per row
  */
