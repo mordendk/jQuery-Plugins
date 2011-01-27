@@ -1,3 +1,4 @@
 Various jQuery Plugins
 
-jquery.alignheight.js: Plugin in for aligning height on elements per row
+jquery.alignheight.js: Plugin in for aligning elements height on a per row basis
+jquery.alignheight.min.js: JSMin edition of the same plugin
